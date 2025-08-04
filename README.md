@@ -6,11 +6,5 @@
   <img src="https://media.giphy.com/media/xTiTnpZzU2u3ZfU2E4/giphy.gif" width="150" />
 </p>
 
----
 
-## ✨ About Me
-
-```diff
-+ En camino a ser una gran programadora:
-+ creando juegos épicos, moldeando mundos en 3D y páginas web divertidas ✨🎮🌐
 
