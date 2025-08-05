@@ -74,9 +74,9 @@ Soy un estudiante autodidacta apasionado por la programación, el diseño 3D y e
   }
 }" width="500"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=480&lines=🌟+Bienvenid%40+a+mi+Universo+Creativo!;💫+Codificando+con+Magia+Pixelada" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F700FF&height=100&section=header&text=🌌%20Mi%20Galaxia%20Dev&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
 
 
 
