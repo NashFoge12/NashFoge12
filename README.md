@@ -74,7 +74,10 @@ Soy un estudiante autodidacta apasionado por la programación, el diseño 3D y e
   }
 }" width="500"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=100&section=footer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 
 
