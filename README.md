@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=80D8FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nash+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=80D8FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nash" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=80D8FF&height=100&section=header" alt="ola celeste pastel"/>
 </p>
 
 ---
