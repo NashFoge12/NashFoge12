@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=AA00FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nash+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc1&height=100&section=header&text=Nash%20Profile&fontSize=30&fontAlign=70&fontAlignY=35&descAlign=70&descAlignY=55" />
-</p>
-
 ---
 
 ### 🎓 Sobre mí
@@ -58,6 +54,8 @@
     }
   }
 }" width="500"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=100&section=footer"/>
 
 
 
