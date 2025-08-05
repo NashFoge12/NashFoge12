@@ -1,43 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Hi+there%2C+I'm+Nash+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc1&height=100&section=header&text=Nash%20Profile&fontSize=30&fontAlign=70&fontAlignY=35&descAlign=70&descAlignY=55" />
-</p>
+<div align="center">
 
----
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-game-controller-video-games-flaticons-lineal-color-flat-icons-3.png" width="48" />
+  <img src="https://img.icons8.com/fluency/48/code.png" width="48" />
+  <img src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-3d-illustration-technology-vectorslab-flat-vectorslab.png" width="48" />
 
-## 🌐 Sobre mí
+  <br><br>
 
-🎮 Gamer <br>
-💻 Web Developer en progreso<br>
-🎨 Me encanta lo visual, los colores neón y el estilo futurista.
+  <p style="color:#A020F0">
+    👾 Gamer | 💻 Web Dev | 🧠 3D Creator
+  </p>
 
----
+  <br>
 
-## 💾 Habilidades Técnicas
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=100&section=footer"/>
 
-- HTML / CSS / JavaScript
-- Diseño UI con estilo *cyberpunk*
-- Personalización de Notion / Perfiles
+</div>
 
----
-
-## 🧠 En desarrollo...
-
-- 🔧 Aprendiendo React
-- 🕹️ Diseñando HUDs inspirados en videojuegos
-- ✨ Explorando efectos visuales en Web
-
----
-
-<style>
-  body {
-    background-color: #0f0f0f;
-    color: #00FFFF;
-  }
-</style>
 
 
 
