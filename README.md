@@ -1,79 +1,43 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=AA00FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nash+%F0%9F%91%8B" alt="Typing SVG" />
+<h1 align="center" style="color:#D800FF;font-weight: bold;">
+  💜 Hi there, I'm Nash 💜
 </h1>
 
 ---
 
 ### 🎓 Sobre mí
-> 💻 Estudiante autodidacta con pasión por la programación, el diseño 3D y los videojuegos.  
-> 🎮 Soñando con crear mundos virtuales y experiencias únicas.  
-> ✨ Explorando el universo digital una línea de código a la vez.
+
+🧠 Estudiante autodidacta comenzando en el mundo del desarrollo. Me apasiona la programación, el diseño 3D y los videojuegos. ¡Estoy en modo **subida de nivel**!
 
 ---
 
-### 🛠️ Habilidades / Tecnologías
+### 🛠️ Tecnologías que estoy aprendiendo
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,blender,unity,github&theme=dark" />
-</p>
-
-> 🧠 Actualmente aprendiendo: `React`, `C#`, `Game Design`, `Web Audio API`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,blender,unity,python,react&theme=light" alt="Tech Stack" />
+</div>
 
 ---
 
 ### 🎯 Mis misiones
 
-- 🚀 Crear mi primer juego 2D completo.
-- 🌐 Publicar un proyecto en [Itch.io](https://itch.io/).
-- 🎨 Dominar Blender para escenarios y personajes.
-- 🔥 Contribuir a un proyecto open source.
-- 📱 Aprender diseño responsive para móviles.
+- 🎮 Crear mi primer juego 2D completo.
+- 💻 Aprender React.js y JavaScript moderno.
+- 🚀 Publicar un proyecto en Itch.io.
+- 🕹️ Hacer un minijuego en Unity.
+- 🌐 Lanzar mi propio portafolio web.
 
 ---
 
-### 🕸️ Radar de habilidades (Visual)
+### 🕸️ Mi Radar de Habilidades
 
-<img src="https://quickchart.io/chart?c={
-  type:'radar',
-  data:{
-    labels:['Frontend','Backend','3D','Lógica','Diseño','Juego'],
-    datasets:[{
-      label:'Nivel actual',
-      backgroundColor:'rgba(170,0,255,0.3)',
-      borderColor:'rgba(170,0,255,1)',
-      pointBackgroundColor:'rgba(170,0,255,1)',
-      data:[6,3,7,5,8,4]
-    }]
-  },
-  options:{
-    scale:{
-      angleLines:{ color:'rgba(170,0,255,0.2)' },
-      gridLines:{ color:'rgba(170,0,255,0.2)' },
-      pointLabels:{ fontColor:'rgba(170,0,255,1)' },
-      ticks:{ min:0, max:10, stepSize:2 }
-    }
-  }
-}" width="500"/>
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','Diseño 3D','Diseño UI','Lógica','Edición'],datasets:[{label:'Nivel actual',backgroundColor:'rgba(216,0,255,0.3)',borderColor:'rgba(216,0,255,1)',pointBackgroundColor:'rgba(216,0,255,1)',data:[3,1,4,2,3,2]}]}}" alt="Radar Skills" width="400"/>
+</p>
 
 ---
 
-### 🌌 Estilo visual y neón
-
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%" style="border-radius: 10px;" />
-
-> ✨ Perfil en construcción... ¡Subiendo de nivel cada día!
-
----
-
-### 📫 Contacto
-
-- 💌 Email: [tu-email@ejemplo.com]
-- 🧠 Portafolio: *Próximamente...*
-- 🎮 Discord: `Nash#1234`
-
----
-
-
+<!-- OLA AL FINAL -->
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/wave.svg" alt="wave" width="100%" />
 
 
 
