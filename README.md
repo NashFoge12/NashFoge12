@@ -4,7 +4,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+<h1 style="color: #FF00FF; font-family: 'Press Start 2P'; text-shadow: 2px 2px 4px #00FFFF;">
+  Nash - Desarrollador de Juegos Neón
+</h1>
 
+<p style="color: #00FF00; font-family: 'VCR OSD Mono'; text-shadow: 1px 1px 2px #FF00FF;">
+  Creando mundos virtuales brillantes y llenos de energía.
+</p>
 ---
 
 ### 🎓 Sobre mí
