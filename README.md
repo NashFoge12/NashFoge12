@@ -74,9 +74,10 @@ Soy un estudiante autodidacta apasionado por la programación, el diseño 3D y e
   }
 }" width="500"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=480&lines=🌟+Bienvenid%40+a+mi+Universo+Creativo!;💫+Codificando+con+Magia+Pixelada" alt="Typing SVG" />
+</h1>
+
 
 
 
